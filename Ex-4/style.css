@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    height: 100vh;
+    
+   
+}
+.container{
+    
+    width: 20%;
+    height: 500px;
+    border: 2px solid  #333;
+    justify-content: center;
+    display: flex;
+    padding: 1%;
+    
+}
+.card{
+   text-align: center;
+   padding: 5%;
+}
+.card h1{
+    padding-top: 2.5%;
+    padding-bottom: 1%;
+
+}
+.card p{
+    padding-bottom: 2.5%;
+}
+.card img{
+    padding: 2%;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+   
+   
+   
+}
+.soccial{
+    padding: 2%;
+}
+button{
+    margin: 2%;
+    padding: 3%;
+    border-radius: 30px;
+    padding: 10px 40px 10px 40px;
+    background-color: aqua;
+     border: 2px solid  aqua;
+}
+button:hover{
+    background-color: rgb(30, 105, 105);
+    cursor: pointer;
+    color: aliceblue;
+    border: 2px solid  rgb(30, 105, 105);
+}
+.soccial img:hover{
+    cursor: pointer;
+}
+.list {
+    padding-left: 10%;
+    text-align: center;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    display: flex;
+    gap: 50px;
+}

@@ -1,0 +1,15 @@
+.styled-button {
+   color: white;
+   background-color: rgb(223, 51, 208);
+   width: 20%;
+   height: 10vw;
+   border: 10px solid rgb(189, 126, 186);
+   font-size: 50px;
+   border-radius: 70px;
+   cursor: pointer;
+}
+
+.styled-button:hover {
+   background-color: rgb(121, 50, 115);
+   border-color: rgb(139, 59, 135);
+}

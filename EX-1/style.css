@@ -1,0 +1,39 @@
+body {
+    background: grey;
+    font-family: sans-serif;
+}
+
+div {
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+    margin-top: 20px;
+    padding-left: 15px;
+
+}
+
+button {
+    border-radius: 30px;
+    padding: 0.7%;
+    cursor: pointer;
+    border: none;
+
+}
+
+.first button {
+    background-color: green;
+    color: white;
+}
+
+.second button {
+    background-color: yellow;
+}
+
+.third button {
+    background-color: blueviolet;
+    color: white;
+}
